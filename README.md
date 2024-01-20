@@ -1,2 +1,2 @@
 # Proj-for-BH-Int
-Iris Classification using Machine Learning
+Iris Classification and House Prediction using Machine Learning
